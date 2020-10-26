@@ -1,6 +1,6 @@
 # Genshin Impact Ideas
 
-El objectivo de este documento es recopilar algunas mecánicas que mejorarían la experiencia en el juego.
+El objetivo de este documento es recopilar algunas mecánicas que mejorarían la experiencia en el juego.
 
 ## Pesca
 
@@ -55,7 +55,7 @@ El juego ya cuenta con un mínimo modo de cacería. La idea sería expandir la f
 Los animales son derrotados con un solo golpe. La idea es cambiar esto para hacer el proceso más dinamico. Permitir usar diferentes elementos para facilitar la cacería de algún tipo en particular. Evaluar cacería en grupo para tipos más complejos.
 Incluso se podría pensar a modo de expedición para los más raros tal como funciona con los Dominios.
 
-### Enciclopedia
+### Enciclopedia de colección
 Sería ideal tener un registro de los logros similar al de la pesca.
 
 
