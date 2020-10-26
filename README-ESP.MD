@@ -38,14 +38,26 @@ Se podrían hacer competencias de pesca. (a detallar)
 El juego ya cuenta con la opción de cocinar. Pero esta idea es un poco diferente, ya que la actual no tiene un proceso visual sobre la comida. Y lo que define el resultado es un medidor de reacción.
 Pienso que en algunas cocinas en particular, se podrían preparar platos especiales. Estos se harían paso por paso, y cada ingrediente tendría su manera de prepararse (y ejecutarse).
 
-## Mecánica de cocina
+### Mecánica de cocina
 Una vez seleccionado el plato a preparar, se muestra la cocina con los ingredientes listos para procesar. La cocina tendrá sus diferentes secciones y como guía se podría mostrar una lista de tareas. Tales como: Cortar verduras, carnes, etc. Poner los ingredientes en ollas, sartenes, freidoras, horno, etc.
 
-## Tipos de platos
+### Tipos de platos
 La idea sería preparar platos libres. Los ingredientes serían los que darían los valores al plato. Habría que evaluar cómo limitar estos. Por eso no habrían tipos específicos de platos.
 
-## Presentación
+### Presentación
 Al final el plato se podría visualizar en detalle. La idea es que el plato se vea lo más real posible. Por ejemplo: si usó una salsa, que tenga el color de la misma. Si usó camarones, que estos estén a la vista. Muchos de estos materiales se obtendran tanto de la pesca como de la caza.
+
+## Cacería
+
+El juego ya cuenta con un mínimo modo de cacería. La idea sería expandir la fauna y hacerla particular a regiones, tal como ya es con la flora de algunos tipos. 
+
+### Mecánica de cacería
+Los animales son derrotados con un solo golpe. La idea es cambiar esto para hacer el proceso más dinamico. Permitir usar diferentes elementos para facilitar la cacería de algún tipo en particular. Evaluar cacería en grupo para tipos más complejos.
+Incluso se podría pensar a modo de expedición para los más raros tal como funciona con los Dominios.
+
+### Enciclopedia
+Sería ideal tener un registro de los logros similar al de la pesca.
+
 
 ## Notas:
 
