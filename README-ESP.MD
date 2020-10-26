@@ -33,6 +33,19 @@ Si bien la idea es coleccionar, también sirve como base de datos. Nombre, ubica
 ### Eventos
 Se podrían hacer competencias de pesca. (a detallar)
 
+## Cocina
+
+El juego ya cuenta con la opción de cocinar. Pero esta idea es un poco diferente, ya que la actual no tiene un proceso visual sobre la comida. Y lo que define el resultado es un medidor de reacción.
+Pienso que en algunas cocinas en particular, se podrían preparar platos especiales. Estos se harían paso por paso, y cada ingrediente tendría su manera de prepararse (y ejecutarse).
+
+## Mecánica de cocina
+Una vez seleccionado el plato a preparar, se muestra la cocina con los ingredientes listos para procesar. La cocina tendrá sus diferentes secciones y como guía se podría mostrar una lista de tareas. Tales como: Cortar verduras, carnes, etc. Poner los ingredientes en ollas, sartenes, freidoras, horno, etc.
+
+## Tipos de platos
+La idea sería preparar platos libres. Los ingredientes serían los que darían los valores al plato. Habría que evaluar cómo limitar estos. Por eso no habrían tipos específicos de platos.
+
+## Presentación
+Al final el plato se podría visualizar en detalle. La idea es que el plato se vea lo más real posible. Por ejemplo: si usó una salsa, que tenga el color de la misma. Si usó camarones, que estos estén a la vista. Muchos de estos materiales se obtendran tanto de la pesca como de la caza.
 
 ## Notas:
 
